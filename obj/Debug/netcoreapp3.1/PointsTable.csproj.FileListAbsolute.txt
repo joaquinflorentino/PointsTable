@@ -1,0 +1,12 @@
+/Users/user/Desktop/PointsTable/bin/Debug/netcoreapp3.1/PointsTable.deps.json
+/Users/user/Desktop/PointsTable/bin/Debug/netcoreapp3.1/PointsTable.runtimeconfig.json
+/Users/user/Desktop/PointsTable/bin/Debug/netcoreapp3.1/PointsTable.runtimeconfig.dev.json
+/Users/user/Desktop/PointsTable/bin/Debug/netcoreapp3.1/PointsTable.dll
+/Users/user/Desktop/PointsTable/bin/Debug/netcoreapp3.1/PointsTable.pdb
+/Users/user/Desktop/PointsTable/obj/Debug/netcoreapp3.1/PointsTable.csprojAssemblyReference.cache
+/Users/user/Desktop/PointsTable/obj/Debug/netcoreapp3.1/PointsTable.AssemblyInfoInputs.cache
+/Users/user/Desktop/PointsTable/obj/Debug/netcoreapp3.1/PointsTable.AssemblyInfo.cs
+/Users/user/Desktop/PointsTable/obj/Debug/netcoreapp3.1/PointsTable.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/PointsTable/obj/Debug/netcoreapp3.1/PointsTable.dll
+/Users/user/Desktop/PointsTable/obj/Debug/netcoreapp3.1/PointsTable.pdb
+/Users/user/Desktop/PointsTable/obj/Debug/netcoreapp3.1/PointsTable.genruntimeconfig.cache
